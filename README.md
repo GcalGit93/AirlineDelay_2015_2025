@@ -1,18 +1,18 @@
-\---
+---
 
 
 
-\---
+---
 
 
 
 
 
-\# Airline Delay 2015-2025 Data Analytics Project
+# Airline Delay 2015-2025 Data Analytics Project
 
 
 
-\## PLEASE SEE: \[portfolio post](https://gcalgit93.github.io/gcalgit93/project/2026/05/21/Airline-Delay-Project.html) for more information on the project.
+## PLEASE SEE: \[portfolio post](https://gcalgit93.github.io/gcalgit93/project/2026/05/21/Airline-Delay-Project.html) for more information on the project.
 
 
 
